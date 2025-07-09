@@ -1,7 +1,6 @@
 trigger: none
 
-pool:
-name: student-lab-pool
+pool: student-lab-pool
 
 steps:
   - task: UsePythonVersion@0
